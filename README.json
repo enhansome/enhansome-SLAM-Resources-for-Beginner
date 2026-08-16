@@ -33,7 +33,7 @@
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3877
+            "stars": 3879
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1320
+            "stars": 1321
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2023-10-13T03:37:07Z",
             "owner": "SilenceOverflow",
             "repo": "Awesome-SLAM",
-            "stars": 1109
+            "stars": 1110
           }
         },
         {
@@ -130,7 +130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:22:43.246Z",
+    "last_updated": "2026-08-16T03:32:36.825Z",
     "original_repository": "Taeyoung96/SLAM-Resources-for-Beginner",
     "original_repository_sha": "8eaf457af13c227e78087091a0718085463fb641",
     "enhanced_repository": "enhansome/enhansome-SLAM-Resources-for-Beginner",
