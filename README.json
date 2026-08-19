@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Review Paper & Survey Paper"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55082941,
             "language": "HTML",
             "last_commit": "2024-08-20T19:26:37Z",
             "owner": "rigtorp",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217333025,
             "language": null,
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63038123,
             "language": null,
             "last_commit": "2022-05-10T17:57:19Z",
             "owner": "tzutalin",
@@ -57,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 105514647,
             "language": null,
             "last_commit": "2023-08-18T07:40:50Z",
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2130
+            "stars": 2129
           }
         },
         {
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133256832,
             "language": null,
             "last_commit": "2024-12-13T04:29:23Z",
             "owner": "youngguncho",
@@ -85,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255347464,
             "language": null,
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1322
+            "stars": 1323
           }
         },
         {
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124948149,
             "language": null,
             "last_commit": "2023-10-13T03:37:07Z",
             "owner": "SilenceOverflow",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300524879,
             "language": null,
             "last_commit": "2026-05-18T12:08:27Z",
             "owner": "awesome-photogrammetry",
@@ -122,16 +125,12 @@
         }
       ],
       "title": "Awesome-list"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Recommended github repository"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:29:26.850Z",
+    "last_updated": "2026-08-19T12:13:35.300Z",
     "original_repository": "Taeyoung96/SLAM-Resources-for-Beginner",
+    "original_repository_id": 411320570,
     "original_repository_sha": "8eaf457af13c227e78087091a0718085463fb641",
     "enhanced_repository": "enhansome/enhansome-SLAM-Resources-for-Beginner",
     "enhanced_repository_description": null,
