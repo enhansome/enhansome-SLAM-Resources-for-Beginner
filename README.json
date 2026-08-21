@@ -30,7 +30,7 @@
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3882
+            "stars": 3883
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2022-05-10T17:57:19Z",
             "owner": "tzutalin",
             "repo": "awesome-visual-slam",
-            "stars": 2429
+            "stars": 2427
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-08-18T07:40:50Z",
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2129
+            "stars": 2130
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1325
+            "stars": 1327
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2023-10-13T03:37:07Z",
             "owner": "SilenceOverflow",
             "repo": "Awesome-SLAM",
-            "stars": 1110
+            "stars": 1109
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-05-18T12:08:27Z",
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 800
+            "stars": 801
           }
         }
       ],
@@ -128,7 +128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:28:33.441Z",
+    "last_updated": "2026-08-21T03:36:16.140Z",
     "original_repository": "Taeyoung96/SLAM-Resources-for-Beginner",
     "original_repository_id": 411320570,
     "original_repository_sha": "8eaf457af13c227e78087091a0718085463fb641",
