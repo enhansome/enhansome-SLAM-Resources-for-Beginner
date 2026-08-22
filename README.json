@@ -15,7 +15,7 @@
             "last_commit": "2024-08-20T19:26:37Z",
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13131
+            "stars": 13132
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3883
+            "stars": 3884
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-08-18T07:40:50Z",
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2130
+            "stars": 2131
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1327
+            "stars": 1326
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-05-18T12:08:27Z",
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 801
+            "stars": 802
           }
         }
       ],
@@ -128,7 +128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:36:16.140Z",
+    "last_updated": "2026-08-22T03:25:16.295Z",
     "original_repository": "Taeyoung96/SLAM-Resources-for-Beginner",
     "original_repository_id": 411320570,
     "original_repository_sha": "8eaf457af13c227e78087091a0718085463fb641",
