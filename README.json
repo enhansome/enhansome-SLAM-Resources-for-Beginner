@@ -75,7 +75,7 @@
             "last_commit": "2024-12-13T04:29:23Z",
             "owner": "youngguncho",
             "repo": "awesome-slam-datasets",
-            "stars": 1943
+            "stars": 1944
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1326
+            "stars": 1327
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2023-10-13T03:37:07Z",
             "owner": "SilenceOverflow",
             "repo": "Awesome-SLAM",
-            "stars": 1109
+            "stars": 1111
           }
         },
         {
@@ -128,7 +128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:25:16.295Z",
+    "last_updated": "2026-08-23T03:35:57.773Z",
     "original_repository": "Taeyoung96/SLAM-Resources-for-Beginner",
     "original_repository_id": 411320570,
     "original_repository_sha": "8eaf457af13c227e78087091a0718085463fb641",

@@ -85,10 +85,10 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 * [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#simultaneous-localization-and-mapping) ⭐ 3,884 | 🐛 13 | 📅 2023-11-20
 * [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,427 | 🐛 3 | 📅 2022-05-10
 * [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2) ⚠️ Archived
-* [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,943 | 🐛 14 | 📅 2024-12-13
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,326 | 🐛 0 | 📅 2026-03-16
-* [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) ⭐ 1,109 | 🐛 7 | 📅 2023-10-13
-* [awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) ⭐ 802 | 🐛 1 | 📅 2026-05-18
+* [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,944 | 🐛 14 | 📅 2024-12-13
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,327 | 🐛 0 | 📅 2026-03-16
+* [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) ⭐ 1,111 | 🐛 7 | 📅 2023-10-13
+* [awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) ⭐ 802 | 🐛 2 | 📅 2026-05-18
 
 ## Recommended github repository
 
@@ -100,11 +100,11 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### Visual SLAM
 
-* [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,908 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
+* [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,909 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
 
 > The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,644 | 🐛 207 | 🌐 C++ | 📅 2024-12-27.
 
-* [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,399 | 🐛 3 | 🌐 Python | 📅 2026-08-01
+* [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,400 | 🐛 3 | 🌐 Python | 📅 2026-08-01
 
 > pySLAM contains a monocular Visual Odometry (VO) pipeline in Python.
 
@@ -124,7 +124,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### Robotics
 
-* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,344 | 🐛 50 | 🌐 Python | 📅 2026-08-17
+* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,350 | 🐛 50 | 🌐 Python | 📅 2026-08-17
 
 > Python sample codes for robotics algorithms.
 
@@ -140,4 +140,4 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
