@@ -30,7 +30,7 @@
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3884
+            "stars": 3883
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1328
+            "stars": 1329
           }
         },
         {
@@ -120,15 +120,191 @@
             "last_commit": "2026-05-18T12:08:27Z",
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 802
+            "stars": 803
           }
         }
       ],
       "title": "Awesome-list"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "YiChenCityU/Recent_SLAM_Research",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148293790,
+                "language": null,
+                "last_commit": "2021-10-21T06:16:45Z",
+                "owner": "YiChenCityU",
+                "repo": "Recent_SLAM_Research",
+                "stars": 2741
+              }
+            }
+          ],
+          "description": "This repository tracks advancement of SLAM system. (2021 ver)",
+          "node_type": "group",
+          "title": "SLAM Trend"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gaoxiang12/slambook-en",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89142087,
+                "language": "TeX",
+                "last_commit": "2025-07-07T03:07:24Z",
+                "owner": "gaoxiang12",
+                "repo": "slambook-en",
+                "stars": 1909
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "luigifreda/pyslam",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179858671,
+                "language": "Python",
+                "last_commit": "2026-08-23T07:25:36Z",
+                "owner": "luigifreda",
+                "repo": "pyslam",
+                "stars": 3401
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "avisingh599/mono-vo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37086130,
+                "language": "C++",
+                "last_commit": "2017-04-18T17:27:22Z",
+                "owner": "avisingh599",
+                "repo": "mono-vo",
+                "stars": 821
+              }
+            }
+          ],
+          "description": "The English version of 14 lectures on visual SLAM. You could see source code in Slambook2.\npySLAM contains a monocular Visual Odometry (VO) pipeline in Python.\nAn OpenCV based implementation of Monocular Visual Odometry",
+          "node_type": "group",
+          "title": "Visual SLAM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kitware/pyLiDAR-SLAM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 384479688,
+                "language": "Python",
+                "last_commit": "2021-10-12T09:14:33Z",
+                "owner": "Kitware",
+                "repo": "pyLiDAR-SLAM",
+                "stars": 350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gisbi-kim/PyICP-SLAM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213172505,
+                "language": "Python",
+                "last_commit": "2023-11-17T10:15:32Z",
+                "owner": "gisbi-kim",
+                "repo": "PyICP-SLAM",
+                "stars": 573
+              }
+            }
+          ],
+          "description": "This codebase proposes modular light python and pytorch implementations of several LiDAR Odometry methods.\nFull-python LiDAR SLAM using ICP and Scan Context",
+          "node_type": "group",
+          "title": "Lidar SLAM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AtsushiSakai/PythonRobotics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54376220,
+                "language": "Python",
+                "last_commit": "2026-08-17T20:03:09Z",
+                "owner": "AtsushiSakai",
+                "repo": "PythonRobotics",
+                "stars": 30355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19868085,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-07T13:19:15Z",
+                "owner": "rlabbe",
+                "repo": "Kalman-and-Bayesian-Filters-in-Python",
+                "stars": 19213
+              }
+            }
+          ],
+          "description": "Python sample codes for robotics algorithms.\nKalman Filter book using Jupyter Notebook.",
+          "node_type": "group",
+          "title": "Robotics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sunglok/3dv_tutorial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81260035,
+                "language": "CMake",
+                "last_commit": "2026-05-17T23:29:52Z",
+                "owner": "mint-lab",
+                "repo": "3dv_tutorial",
+                "stars": 1801
+              }
+            }
+          ],
+          "description": "An Invitation to 3D Vision: A Tutorial for Everyone",
+          "node_type": "group",
+          "title": "3D Vision"
+        }
+      ],
+      "title": "Recommended github repository"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:38:28.408Z",
+    "last_updated": "2026-08-24T14:33:39.200Z",
     "original_repository": "Taeyoung96/SLAM-Resources-for-Beginner",
     "original_repository_id": 411320570,
     "original_repository_sha": "8eaf457af13c227e78087091a0718085463fb641",
