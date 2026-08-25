@@ -15,7 +15,7 @@
             "last_commit": "2024-08-20T19:26:37Z",
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13134
+            "stars": 13133
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3883
+            "stars": 3884
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2022-05-10T17:57:19Z",
             "owner": "tzutalin",
             "repo": "awesome-visual-slam",
-            "stars": 2427
+            "stars": 2428
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-08-18T07:40:50Z",
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2131
+            "stars": 2132
           }
         },
         {
@@ -251,10 +251,10 @@
                 "archived": false,
                 "id": 54376220,
                 "language": "Python",
-                "last_commit": "2026-08-17T20:03:09Z",
+                "last_commit": "2026-08-24T20:02:57Z",
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30355
+                "stars": 30357
               }
             },
             {
@@ -269,7 +269,7 @@
                 "last_commit": "2024-08-07T13:19:15Z",
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19213
+                "stars": 19214
               }
             }
           ],
@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:33:39.200Z",
+    "last_updated": "2026-08-25T03:31:02.316Z",
     "original_repository": "Taeyoung96/SLAM-Resources-for-Beginner",
     "original_repository_id": 411320570,
     "original_repository_sha": "8eaf457af13c227e78087091a0718085463fb641",
