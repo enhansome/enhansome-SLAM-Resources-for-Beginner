@@ -30,7 +30,7 @@
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3884
+            "stars": 3883
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2022-05-10T17:57:19Z",
             "owner": "tzutalin",
             "repo": "awesome-visual-slam",
-            "stars": 2428
+            "stars": 2429
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1329
+            "stars": 1331
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-05-18T12:08:27Z",
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 803
+            "stars": 802
           }
         }
       ],
@@ -143,7 +143,7 @@
                 "last_commit": "2021-10-21T06:16:45Z",
                 "owner": "YiChenCityU",
                 "repo": "Recent_SLAM_Research",
-                "stars": 2741
+                "stars": 2742
               }
             }
           ],
@@ -254,7 +254,7 @@
                 "last_commit": "2026-08-24T20:02:57Z",
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30358
+                "stars": 30371
               }
             },
             {
@@ -269,7 +269,7 @@
                 "last_commit": "2024-08-07T13:19:15Z",
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19214
+                "stars": 19216
               }
             }
           ],
@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:56.472Z",
+    "last_updated": "2026-08-26T03:39:16.954Z",
     "original_repository": "Taeyoung96/SLAM-Resources-for-Beginner",
     "original_repository_id": 411320570,
     "original_repository_sha": "8eaf457af13c227e78087091a0718085463fb641",
