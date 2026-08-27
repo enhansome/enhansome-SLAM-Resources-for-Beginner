@@ -104,7 +104,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 > The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,655 | 🐛 207 | 🌐 C++ | 📅 2024-12-27.
 
-* [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,401 | 🐛 1 | 🌐 Python | 📅 2026-08-23
+* [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,402 | 🐛 1 | 🌐 Python | 📅 2026-08-23
 
 > pySLAM contains a monocular Visual Odometry (VO) pipeline in Python.
 
