@@ -15,8 +15,9 @@
             "last_commit": "2024-08-20T19:26:37Z",
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13135
-          }
+            "stars": 13136
+          },
+          "first_seen": "2026-08-28T14:35:37.752Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3883
-          }
+            "stars": 3885
+          },
+          "first_seen": "2026-08-28T14:35:37.752Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "tzutalin",
             "repo": "awesome-visual-slam",
             "stars": 2429
-          }
+          },
+          "first_seen": "2026-08-28T14:35:37.752Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2023-08-18T07:40:50Z",
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2132
-          }
+            "stars": 2133
+          },
+          "first_seen": "2026-08-28T14:35:37.752Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "youngguncho",
             "repo": "awesome-slam-datasets",
             "stars": 1944
-          }
+          },
+          "first_seen": "2026-08-28T14:35:37.752Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1331
-          }
+            "stars": 1332
+          },
+          "first_seen": "2026-08-28T14:35:37.752Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "SilenceOverflow",
             "repo": "Awesome-SLAM",
             "stars": 1111
-          }
+          },
+          "first_seen": "2026-08-28T14:35:37.752Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
             "stars": 802
-          }
+          },
+          "first_seen": "2026-08-28T14:35:37.752Z"
         }
       ],
       "title": "Awesome-list"
@@ -144,7 +152,8 @@
                 "owner": "YiChenCityU",
                 "repo": "Recent_SLAM_Research",
                 "stars": 2742
-              }
+              },
+              "first_seen": "2026-08-28T14:35:37.752Z"
             }
           ],
           "description": "This repository tracks advancement of SLAM system. (2021 ver)",
@@ -166,7 +175,8 @@
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
                 "stars": 1909
-              }
+              },
+              "first_seen": "2026-08-28T14:35:37.752Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "luigifreda",
                 "repo": "pyslam",
                 "stars": 3402
-              }
+              },
+              "first_seen": "2026-08-28T14:35:37.752Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "avisingh599",
                 "repo": "mono-vo",
                 "stars": 821
-              }
+              },
+              "first_seen": "2026-08-28T14:35:37.752Z"
             }
           ],
           "description": "The English version of 14 lectures on visual SLAM. You could see source code in Slambook2.\npySLAM contains a monocular Visual Odometry (VO) pipeline in Python.\nAn OpenCV based implementation of Monocular Visual Odometry",
@@ -218,7 +230,8 @@
                 "owner": "Kitware",
                 "repo": "pyLiDAR-SLAM",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-28T14:35:37.752Z"
             },
             {
               "node_type": "item",
@@ -233,7 +246,8 @@
                 "owner": "gisbi-kim",
                 "repo": "PyICP-SLAM",
                 "stars": 573
-              }
+              },
+              "first_seen": "2026-08-28T14:35:37.752Z"
             }
           ],
           "description": "This codebase proposes modular light python and pytorch implementations of several LiDAR Odometry methods.\nFull-python LiDAR SLAM using ICP and Scan Context",
@@ -254,8 +268,9 @@
                 "last_commit": "2026-08-24T20:02:57Z",
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30393
-              }
+                "stars": 30402
+              },
+              "first_seen": "2026-08-28T14:35:37.752Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
                 "stars": 19222
-              }
+              },
+              "first_seen": "2026-08-28T14:35:37.752Z"
             }
           ],
           "description": "Python sample codes for robotics algorithms.\nKalman Filter book using Jupyter Notebook.",
@@ -291,8 +307,9 @@
                 "last_commit": "2026-05-17T23:29:52Z",
                 "owner": "mint-lab",
                 "repo": "3dv_tutorial",
-                "stars": 1801
-              }
+                "stars": 1802
+              },
+              "first_seen": "2026-08-28T14:35:37.752Z"
             }
           ],
           "description": "An Invitation to 3D Vision: A Tutorial for Everyone",
@@ -304,7 +321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:05:49.148Z",
+    "last_updated": "2026-08-28T14:35:37.752Z",
     "original_repository_info": {
       "archived": false,
       "id": 411320570,
