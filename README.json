@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3885,
+            "stars": 3886,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -453,7 +453,7 @@
                 "open_issues": 51,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30403,
+                "stars": 30404,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 143,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19223,
+                "stars": 19224,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:15.462Z",
+    "last_updated": "2026-08-29T09:23:02.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
