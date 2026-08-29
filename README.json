@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of resources on modern C++",
+            "homepage": "http://awesomecpp.com",
             "id": 55082941,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-08-20T19:26:37Z",
+            "open_issues": 20,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13136
+            "stars": 13137,
+            "topics": [
+              "cpp",
+              "cpp11",
+              "cpp14",
+              "cpp17",
+              "cpp1z",
+              "cpp20"
+            ]
           },
           "first_seen": "2026-08-28T14:35:37.752Z"
         },
@@ -26,12 +38,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.",
+            "homepage": null,
             "id": 217333025,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-11-20T07:13:29Z",
+            "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3885
+            "stars": 3885,
+            "topics": [
+              "aerospace",
+              "artificial-intelligence",
+              "automotive",
+              "autonomous-driving",
+              "awesome",
+              "awesome-list",
+              "cplusplus",
+              "cpp",
+              "lidar",
+              "machine-learning",
+              "mapping",
+              "point-cloud",
+              "python",
+              "robot",
+              "robotic",
+              "robotics",
+              "ros",
+              "ros2",
+              "self-driving-car",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-28T14:35:37.752Z"
         },
@@ -42,12 +80,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
+            "homepage": null,
             "id": 63038123,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-10T17:57:19Z",
+            "open_issues": 3,
             "owner": "tzutalin",
             "repo": "awesome-visual-slam",
-            "stars": 2429
+            "stars": 2429,
+            "topics": [
+              "books",
+              "computervision",
+              "learning",
+              "point-cloud",
+              "reconstruction",
+              "ros",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-28T14:35:37.752Z"
         },
@@ -58,12 +109,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Robot Operating System Version 2.0 is awesome!",
+            "homepage": "https://fkromer.github.io/awesome-ros2",
             "id": 105514647,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-08-18T07:40:50Z",
+            "open_issues": 0,
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2133
+            "stars": 2133,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "ros2"
+            ]
           },
           "first_seen": "2026-08-28T14:35:37.752Z"
         },
@@ -74,12 +134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome datasets for SLAM",
+            "homepage": null,
             "id": 133256832,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-13T04:29:23Z",
+            "open_issues": 14,
             "owner": "youngguncho",
             "repo": "awesome-slam-datasets",
-            "stars": 1944
+            "stars": 1944,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:37.752Z"
         },
@@ -90,12 +155,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.",
+            "homepage": "https://szenergy.github.io/awesome-lidar/",
             "id": 255347464,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-16T09:19:48Z",
+            "open_issues": 0,
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1332
+            "stars": 1332,
+            "topics": [
+              "3d",
+              "3d-lidar",
+              "autonomous-driving",
+              "awesome",
+              "awesome-list",
+              "lidar",
+              "obstacle-detection",
+              "point-cloud",
+              "pointcloud",
+              "simulator",
+              "slam",
+              "sze",
+              "szegyetem",
+              "szenergy"
+            ]
           },
           "first_seen": "2026-08-28T14:35:37.752Z"
         },
@@ -106,12 +191,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of SLAM resources",
+            "homepage": "https://silenceoverflow.github.io/Awesome-SLAM/",
             "id": 124948149,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-13T03:37:07Z",
+            "open_issues": 7,
             "owner": "SilenceOverflow",
             "repo": "Awesome-SLAM",
-            "stars": 1111
+            "stars": 1111,
+            "topics": [
+              "slam",
+              "vislam",
+              "vslam"
+            ]
           },
           "first_seen": "2026-08-28T14:35:37.752Z"
         },
@@ -122,12 +216,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome photogrammetry projects",
+            "homepage": null,
             "id": 300524879,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-18T12:08:27Z",
+            "open_issues": 2,
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 802
+            "stars": 802,
+            "topics": [
+              "awesome",
+              "computer-vision",
+              "image-processing",
+              "photogrammetry",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T14:35:37.752Z"
         }
@@ -146,12 +251,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Track Advancement of SLAM 跟踪SLAM前沿动态【2021 version】業務調整，暫停更新",
+                "homepage": null,
                 "id": 148293790,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-10-21T06:16:45Z",
+                "open_issues": 5,
                 "owner": "YiChenCityU",
                 "repo": "Recent_SLAM_Research",
-                "stars": 2742
+                "stars": 2742,
+                "topics": [
+                  "fusion",
+                  "lidar-odometry",
+                  "lidar-slam",
+                  "mobile-robots",
+                  "multiple-sensors",
+                  "open-source",
+                  "reconstruction",
+                  "research-paper",
+                  "semantic",
+                  "slam",
+                  "state-estimation",
+                  "vins",
+                  "vslam"
+                ]
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
             }
@@ -169,12 +293,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The English version of 14 lectures on visual SLAM.",
+                "homepage": null,
                 "id": 89142087,
                 "language": "TeX",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-07T03:07:24Z",
+                "open_issues": 30,
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
-                "stars": 1909
+                "stars": 1909,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
             },
@@ -185,12 +314,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pySLAM is a hybrid Python/C++ Visual SLAM pipeline supporting monocular, stereo, and RGB-D cameras. It provides a broad set of modern local and global feature extractors, multiple loop-closure strategies, a volumetric reconstruction module, integrated depth-prediction models, and semantic segmentation capabilities for enhanced scene understanding.",
+                "homepage": null,
                 "id": 179858671,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T07:25:36Z",
+                "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3402
+                "stars": 3403,
+                "topics": [
+                  "3d-reconstruction",
+                  "depth-estimation",
+                  "depth-prediction",
+                  "end-to-end-reconstruction",
+                  "feature-matching",
+                  "gaussian-splatting",
+                  "global-features",
+                  "instance-segmentation",
+                  "local-features",
+                  "loop-closure",
+                  "place-recognition",
+                  "rgbd-slam",
+                  "scene-understanding",
+                  "semantic-mapping",
+                  "semantic-segmentation",
+                  "semantic-understanding",
+                  "slam",
+                  "stereo-slam",
+                  "visual-odometry",
+                  "volumetric-reconstruction"
+                ]
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
             },
@@ -201,12 +356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OpenCV based implementation of Monocular Visual Odometry",
+                "homepage": null,
                 "id": 37086130,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-04-18T17:27:22Z",
+                "open_issues": 15,
                 "owner": "avisingh599",
                 "repo": "mono-vo",
-                "stars": 821
+                "stars": 821,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
             }
@@ -224,12 +384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 384479688,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-10-12T09:14:33Z",
+                "open_issues": 1,
                 "owner": "Kitware",
                 "repo": "pyLiDAR-SLAM",
-                "stars": 351
+                "stars": 351,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
             },
@@ -240,12 +405,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-python LiDAR SLAM using ICP and Scan Context",
+                "homepage": null,
                 "id": 213172505,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-17T10:15:32Z",
+                "open_issues": 5,
                 "owner": "gisbi-kim",
                 "repo": "PyICP-SLAM",
-                "stars": 573
+                "stars": 573,
+                "topics": [
+                  "icp",
+                  "lidar",
+                  "loop",
+                  "odometry",
+                  "place",
+                  "pointcloud",
+                  "recognition",
+                  "robot",
+                  "scan",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
             }
@@ -263,12 +444,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python sample codes and textbook for robotics algorithms.",
+                "homepage": "https://atsushisakai.github.io/PythonRobotics/",
                 "id": 54376220,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T20:02:57Z",
+                "open_issues": 51,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30402
+                "stars": 30403,
+                "topics": [
+                  "algorithm",
+                  "animation",
+                  "autonomous-driving",
+                  "autonomous-navigation",
+                  "autonomous-vehicles",
+                  "control",
+                  "cvxpy",
+                  "ekf",
+                  "hacktoberfest",
+                  "localization",
+                  "mapping",
+                  "path-planning",
+                  "python",
+                  "robot",
+                  "robotics",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
             },
@@ -279,12 +482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+                "homepage": null,
                 "id": 19868085,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-07T13:19:15Z",
+                "open_issues": 143,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19222
+                "stars": 19223,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
             }
@@ -302,12 +510,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Invitation to 3D Vision: A Tutorial for Everyone",
+                "homepage": null,
                 "id": 81260035,
                 "language": "CMake",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-17T23:29:52Z",
+                "open_issues": 6,
                 "owner": "mint-lab",
                 "repo": "3dv_tutorial",
-                "stars": 1802
+                "stars": 1802,
+                "topics": [
+                  "3d-reconstruction",
+                  "3d-vision",
+                  "bundle-adjustment",
+                  "camera-calibration",
+                  "geometric-vision",
+                  "image-rectification",
+                  "opencv",
+                  "visual-geometry",
+                  "visual-odometry",
+                  "visual-slam"
+                ]
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
             }
@@ -321,15 +545,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:35:37.752Z",
+    "last_updated": "2026-08-29T04:50:15.462Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
+      "homepage": null,
       "id": 411320570,
       "language": null,
+      "license": null,
       "last_commit": "2023-07-29T09:46:36Z",
+      "open_issues": 0,
       "owner": "Taeyoung96",
       "repo": "SLAM-Resources-for-Beginner",
-      "stars": 253
+      "stars": 253,
+      "topics": [
+        "awesome-list",
+        "lecture",
+        "newbie",
+        "review-papers",
+        "robotics",
+        "slam",
+        "slam-course",
+        "slam-tutorial",
+        "slambook"
+      ]
     },
     "original_repository_sha": "8eaf457af13c227e78087091a0718085463fb641",
     "enhanced_repository": "enhansome/enhansome-SLAM-Resources-for-Beginner",
