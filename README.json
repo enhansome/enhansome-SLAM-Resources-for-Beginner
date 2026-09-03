@@ -118,7 +118,7 @@
             "open_issues": 0,
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2133,
+            "stars": 2132,
             "topics": [
               "awesome",
               "awesome-list",
@@ -164,7 +164,7 @@
             "open_issues": 0,
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1335,
+            "stars": 1336,
             "topics": [
               "3d",
               "3d-lidar",
@@ -225,7 +225,7 @@
             "open_issues": 4,
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 804,
+            "stars": 803,
             "topics": [
               "awesome",
               "computer-vision",
@@ -302,7 +302,7 @@
                 "open_issues": 30,
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
-                "stars": 1909,
+                "stars": 1910,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -453,7 +453,7 @@
                 "open_issues": 53,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30431,
+                "stars": 30432,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 143,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19231,
+                "stars": 19236,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:19:28.244Z",
+    "last_updated": "2026-09-03T07:23:05.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
