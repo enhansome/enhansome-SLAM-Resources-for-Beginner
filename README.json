@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13142,
+            "stars": 13147,
             "topics": [
               "cpp",
               "cpp11",
@@ -161,7 +161,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-16T09:19:48Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "szenergy",
             "repo": "awesome-lidar",
             "stars": 1336,
@@ -450,10 +450,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T05:34:58Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30432,
+                "stars": 30439,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 143,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19236,
+                "stars": 19240,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -519,7 +519,7 @@
                 "open_issues": 6,
                 "owner": "mint-lab",
                 "repo": "3dv_tutorial",
-                "stars": 1802,
+                "stars": 1803,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:23:05.598Z",
+    "last_updated": "2026-09-04T07:25:17.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
