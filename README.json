@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13152,
+            "stars": 13153,
             "topics": [
               "cpp",
               "cpp11",
@@ -118,7 +118,7 @@
             "open_issues": 0,
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2131,
+            "stars": 2132,
             "topics": [
               "awesome",
               "awesome-list",
@@ -449,11 +449,11 @@
                 "id": 54376220,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T05:34:58Z",
-                "open_issues": 54,
+                "last_commit": "2026-09-07T20:02:50Z",
+                "open_issues": 55,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30460,
+                "stars": 30465,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -488,10 +488,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-07T13:19:15Z",
-                "open_issues": 143,
+                "open_issues": 144,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19246,
+                "stars": 19249,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:32:56.277Z",
+    "last_updated": "2026-09-08T07:25:58.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
