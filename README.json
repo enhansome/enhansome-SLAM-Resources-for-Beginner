@@ -260,7 +260,7 @@
                 "open_issues": 5,
                 "owner": "YiChenCityU",
                 "repo": "Recent_SLAM_Research",
-                "stars": 2742,
+                "stars": 2743,
                 "topics": [
                   "fusion",
                   "lidar-odometry",
@@ -323,7 +323,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3405,
+                "stars": 3406,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -450,10 +450,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T20:02:50Z",
-                "open_issues": 55,
+                "open_issues": 54,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30471,
+                "stars": 30478,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 144,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19252,
+                "stars": 19285,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -519,7 +519,7 @@
                 "open_issues": 6,
                 "owner": "mint-lab",
                 "repo": "3dv_tutorial",
-                "stars": 1803,
+                "stars": 1802,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T07:34:17.495Z",
+    "last_updated": "2026-09-10T07:30:35.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
