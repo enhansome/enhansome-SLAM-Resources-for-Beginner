@@ -89,7 +89,7 @@
             "open_issues": 3,
             "owner": "tzutalin",
             "repo": "awesome-visual-slam",
-            "stars": 2429,
+            "stars": 2428,
             "topics": [
               "books",
               "computervision",
@@ -143,7 +143,7 @@
             "open_issues": 14,
             "owner": "youngguncho",
             "repo": "awesome-slam-datasets",
-            "stars": 1945,
+            "stars": 1946,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:37.752Z"
@@ -200,7 +200,7 @@
             "open_issues": 7,
             "owner": "SilenceOverflow",
             "repo": "Awesome-SLAM",
-            "stars": 1112,
+            "stars": 1111,
             "topics": [
               "slam",
               "vislam",
@@ -225,7 +225,7 @@
             "open_issues": 4,
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 803,
+            "stars": 804,
             "topics": [
               "awesome",
               "computer-vision",
@@ -260,7 +260,7 @@
                 "open_issues": 5,
                 "owner": "YiChenCityU",
                 "repo": "Recent_SLAM_Research",
-                "stars": 2743,
+                "stars": 2742,
                 "topics": [
                   "fusion",
                   "lidar-odometry",
@@ -323,7 +323,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3406,
+                "stars": 3408,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -365,7 +365,7 @@
                 "open_issues": 15,
                 "owner": "avisingh599",
                 "repo": "mono-vo",
-                "stars": 823,
+                "stars": 824,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -393,7 +393,7 @@
                 "open_issues": 1,
                 "owner": "Kitware",
                 "repo": "pyLiDAR-SLAM",
-                "stars": 351,
+                "stars": 352,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -453,7 +453,7 @@
                 "open_issues": 54,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30478,
+                "stars": 30482,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 144,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19285,
+                "stars": 19310,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:30:35.285Z",
+    "last_updated": "2026-09-11T07:28:44.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
@@ -557,7 +557,7 @@
       "open_issues": 0,
       "owner": "Taeyoung96",
       "repo": "SLAM-Resources-for-Beginner",
-      "stars": 256,
+      "stars": 257,
       "topics": [
         "awesome-list",
         "lecture",

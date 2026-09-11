@@ -8,7 +8,7 @@ As a beginner learning SLAM, I created this repository to organize resources tha
 
 I made this repository based on the content from the [SLAM KR community](https://www.facebook.com/groups/slamkr/) and the activities of [my github followers](https://github.com/Taeyoung96?tab=following)!
 
-If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyoung96/SLAM-Resources-for-Beginner/blob/master/korean.md) ⭐ 256 | 🐛 0 | 📅 2023-07-29.
+If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyoung96/SLAM-Resources-for-Beginner/blob/master/korean.md) ⭐ 257 | 🐛 0 | 📅 2023-07-29.
 
 ## Contents
 
@@ -32,7 +32,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ## Roadmap
 
-* [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) ⭐ 1,773 | 🐛 8 | 🌐 Astro | 📅 2026-07-19
+* [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) ⭐ 1,775 | 🐛 8 | 🌐 Astro | 📅 2026-07-19
 
 > Roadmap to becoming a Visual-SLAM developer
 
@@ -83,18 +83,18 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 * [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,153 | 🐛 20 | 🌐 HTML | 📅 2024-08-20 : Modern C++ is important language to learn SLAM system.
 * [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#simultaneous-localization-and-mapping) ⭐ 3,891 | 🐛 13 | 📅 2023-11-20
-* [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,429 | 🐛 3 | 📅 2022-05-10
+* [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,428 | 🐛 3 | 📅 2022-05-10
 * [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2) ⚠️ Archived
-* [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,945 | 🐛 14 | 📅 2024-12-13
+* [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,946 | 🐛 14 | 📅 2024-12-13
 * [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,338 | 🐛 1 | 📅 2026-03-16
-* [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) ⭐ 1,112 | 🐛 7 | 📅 2023-10-13
-* [awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) ⭐ 803 | 🐛 4 | 📅 2026-05-18
+* [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) ⭐ 1,111 | 🐛 7 | 📅 2023-10-13
+* [awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) ⭐ 804 | 🐛 4 | 📅 2026-05-18
 
 ## Recommended github repository
 
 ### SLAM Trend
 
-* [YiChenCityU/Recent\_SLAM\_Research](https://github.com/YiChenCityU/Recent_SLAM_Research) ⭐ 2,743 | 🐛 5 | 📅 2021-10-21
+* [YiChenCityU/Recent\_SLAM\_Research](https://github.com/YiChenCityU/Recent_SLAM_Research) ⭐ 2,742 | 🐛 5 | 📅 2021-10-21
 
 > This repository tracks advancement of SLAM system. (2021 ver)
 
@@ -102,19 +102,19 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 * [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,911 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
 
-> The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,674 | 🐛 207 | 🌐 C++ | 📅 2024-12-27.
+> The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,677 | 🐛 207 | 🌐 C++ | 📅 2024-12-27.
 
-* [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,406 | 🐛 1 | 🌐 Python | 📅 2026-08-23
+* [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,408 | 🐛 1 | 🌐 Python | 📅 2026-08-23
 
 > pySLAM contains a monocular Visual Odometry (VO) pipeline in Python.
 
-* [avisingh599/mono-vo](https://github.com/avisingh599/mono-vo) ⭐ 823 | 🐛 15 | 🌐 C++ | 📅 2017-04-18
+* [avisingh599/mono-vo](https://github.com/avisingh599/mono-vo) ⭐ 824 | 🐛 15 | 🌐 C++ | 📅 2017-04-18
 
 > An OpenCV based implementation of Monocular Visual Odometry
 
 ### Lidar SLAM
 
-* [Kitware/pyLiDAR-SLAM](https://github.com/Kitware/pyLiDAR-SLAM) ⭐ 351 | 🐛 1 | 🌐 Python | 📅 2021-10-12
+* [Kitware/pyLiDAR-SLAM](https://github.com/Kitware/pyLiDAR-SLAM) ⭐ 352 | 🐛 1 | 🌐 Python | 📅 2021-10-12
 
 > This codebase proposes modular light python and pytorch implementations of several LiDAR Odometry methods.
 
@@ -124,11 +124,11 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### Robotics
 
-* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,478 | 🐛 54 | 🌐 Python | 📅 2026-09-07
+* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,482 | 🐛 54 | 🌐 Python | 📅 2026-09-07
 
 > Python sample codes for robotics algorithms.
 
-* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,285 | 🐛 144 | 🌐 Jupyter Notebook | 📅 2024-08-07
+* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,310 | 🐛 144 | 🌐 Jupyter Notebook | 📅 2024-08-07
 
 > Kalman Filter book using Jupyter Notebook.
 
@@ -140,4 +140,4 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
