@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13154,
+            "stars": 13155,
             "topics": [
               "cpp",
               "cpp11",
@@ -89,7 +89,7 @@
             "open_issues": 3,
             "owner": "tzutalin",
             "repo": "awesome-visual-slam",
-            "stars": 2429,
+            "stars": 2428,
             "topics": [
               "books",
               "computervision",
@@ -164,7 +164,7 @@
             "open_issues": 1,
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1338,
+            "stars": 1339,
             "topics": [
               "3d",
               "3d-lidar",
@@ -225,7 +225,7 @@
             "open_issues": 4,
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 804,
+            "stars": 805,
             "topics": [
               "awesome",
               "computer-vision",
@@ -323,7 +323,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3408,
+                "stars": 3410,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -453,7 +453,7 @@
                 "open_issues": 55,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30492,
+                "stars": 30499,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 144,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19328,
+                "stars": 19334,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -519,7 +519,7 @@
                 "open_issues": 6,
                 "owner": "mint-lab",
                 "repo": "3dv_tutorial",
-                "stars": 1802,
+                "stars": 1803,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:39:25.446Z",
+    "last_updated": "2026-09-14T08:07:02.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
