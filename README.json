@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13158,
+            "stars": 13159,
             "topics": [
               "cpp",
               "cpp11",
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3890,
+            "stars": 3891,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -143,7 +143,7 @@
             "open_issues": 14,
             "owner": "youngguncho",
             "repo": "awesome-slam-datasets",
-            "stars": 1946,
+            "stars": 1945,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:37.752Z"
@@ -225,7 +225,7 @@
             "open_issues": 4,
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 805,
+            "stars": 807,
             "topics": [
               "awesome",
               "computer-vision",
@@ -302,7 +302,7 @@
                 "open_issues": 30,
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
-                "stars": 1910,
+                "stars": 1911,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -323,7 +323,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3411,
+                "stars": 3412,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -453,7 +453,7 @@
                 "open_issues": 56,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30508,
+                "stars": 30524,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 144,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19340,
+                "stars": 19345,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:01:53.354Z",
+    "last_updated": "2026-09-16T07:54:50.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
