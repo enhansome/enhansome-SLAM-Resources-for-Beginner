@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13160,
+            "stars": 13159,
             "topics": [
               "cpp",
               "cpp11",
@@ -89,7 +89,7 @@
             "open_issues": 3,
             "owner": "tzutalin",
             "repo": "awesome-visual-slam",
-            "stars": 2427,
+            "stars": 2428,
             "topics": [
               "books",
               "computervision",
@@ -225,7 +225,7 @@
             "open_issues": 4,
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 808,
+            "stars": 809,
             "topics": [
               "awesome",
               "computer-vision",
@@ -302,7 +302,7 @@
                 "open_issues": 30,
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
-                "stars": 1912,
+                "stars": 1913,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -453,7 +453,7 @@
                 "open_issues": 56,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30538,
+                "stars": 30548,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 144,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19352,
+                "stars": 19353,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:32:16.658Z",
+    "last_updated": "2026-09-20T07:55:20.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
