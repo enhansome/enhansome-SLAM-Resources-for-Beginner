@@ -47,7 +47,7 @@
             "open_issues": 15,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3890,
+            "stars": 3892,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -164,7 +164,7 @@
             "open_issues": 2,
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1342,
+            "stars": 1344,
             "topics": [
               "3d",
               "3d-lidar",
@@ -302,7 +302,7 @@
                 "open_issues": 30,
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
-                "stars": 1913,
+                "stars": 1914,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -323,7 +323,7 @@
                 "open_issues": 2,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3416,
+                "stars": 3419,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -453,7 +453,7 @@
                 "open_issues": 56,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30561,
+                "stars": 30571,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 144,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19355,
+                "stars": 19359,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -519,7 +519,7 @@
                 "open_issues": 6,
                 "owner": "mint-lab",
                 "repo": "3dv_tutorial",
-                "stars": 1806,
+                "stars": 1807,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:57:02.704Z",
+    "last_updated": "2026-09-23T07:58:13.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
