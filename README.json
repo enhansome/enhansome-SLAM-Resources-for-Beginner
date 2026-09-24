@@ -47,7 +47,7 @@
             "open_issues": 15,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3892,
+            "stars": 3893,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -160,11 +160,11 @@
             "id": 255347464,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-03-16T09:19:48Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-23T12:37:24Z",
+            "open_issues": 1,
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1344,
+            "stars": 1346,
             "topics": [
               "3d",
               "3d-lidar",
@@ -200,7 +200,7 @@
             "open_issues": 7,
             "owner": "SilenceOverflow",
             "repo": "Awesome-SLAM",
-            "stars": 1112,
+            "stars": 1113,
             "topics": [
               "slam",
               "vislam",
@@ -302,7 +302,7 @@
                 "open_issues": 30,
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
-                "stars": 1914,
+                "stars": 1915,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -323,7 +323,7 @@
                 "open_issues": 2,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3419,
+                "stars": 3420,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -453,7 +453,7 @@
                 "open_issues": 56,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30571,
+                "stars": 30580,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 144,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19359,
+                "stars": 19364,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T07:58:13.599Z",
+    "last_updated": "2026-09-24T07:49:09.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
