@@ -8,7 +8,7 @@ As a beginner learning SLAM, I created this repository to organize resources tha
 
 I made this repository based on the content from the [SLAM KR community](https://www.facebook.com/groups/slamkr/) and the activities of [my github followers](https://github.com/Taeyoung96?tab=following)!
 
-If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyoung96/SLAM-Resources-for-Beginner/blob/master/korean.md) ⭐ 257 | 🐛 0 | 📅 2023-07-29.
+If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyoung96/SLAM-Resources-for-Beginner/blob/master/korean.md) ⭐ 258 | 🐛 0 | 📅 2023-07-29.
 
 ## Contents
 
@@ -81,7 +81,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ## Awesome-list
 
-* [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,163 | 🐛 21 | 🌐 HTML | 📅 2024-08-20 : Modern C++ is important language to learn SLAM system.
+* [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,162 | 🐛 20 | 🌐 HTML | 📅 2024-08-20 : Modern C++ is important language to learn SLAM system.
 * [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#simultaneous-localization-and-mapping) ⭐ 3,893 | 🐛 13 | 📅 2023-11-20
 * [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,429 | 🐛 3 | 📅 2022-05-10
 * [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2) ⚠️ Archived
@@ -100,7 +100,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### Visual SLAM
 
-* [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,915 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
+* [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,914 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
 
 > The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,704 | 🐛 208 | 🌐 C++ | 📅 2024-12-27.
 
@@ -124,11 +124,11 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### Robotics
 
-* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,585 | 🐛 57 | 🌐 Python | 📅 2026-09-22
+* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,586 | 🐛 57 | 🌐 Python | 📅 2026-09-22
 
 > Python sample codes for robotics algorithms.
 
-* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,369 | 🐛 144 | 🌐 Jupyter Notebook | 📅 2024-08-07
+* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,370 | 🐛 144 | 🌐 Jupyter Notebook | 📅 2024-08-07
 
 > Kalman Filter book using Jupyter Notebook.
 
@@ -140,4 +140,4 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
