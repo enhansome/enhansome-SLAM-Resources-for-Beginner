@@ -143,7 +143,7 @@
             "open_issues": 14,
             "owner": "youngguncho",
             "repo": "awesome-slam-datasets",
-            "stars": 1945,
+            "stars": 1946,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:37.752Z"
@@ -302,7 +302,7 @@
                 "open_issues": 30,
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
-                "stars": 1914,
+                "stars": 1915,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -453,7 +453,7 @@
                 "open_issues": 57,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30586,
+                "stars": 30591,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 144,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19370,
+                "stars": 19374,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T08:00:10.057Z",
+    "last_updated": "2026-09-27T08:33:55.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
