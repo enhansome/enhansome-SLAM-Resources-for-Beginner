@@ -32,7 +32,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ## Roadmap
 
-* [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) ⭐ 1,787 | 🐛 8 | 🌐 Astro | 📅 2026-07-19
+* [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) ⭐ 1,788 | 🐛 8 | 🌐 Astro | 📅 2026-07-19
 
 > Roadmap to becoming a Visual-SLAM developer
 
@@ -81,8 +81,8 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ## Awesome-list
 
-* [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,162 | 🐛 20 | 🌐 HTML | 📅 2024-08-20 : Modern C++ is important language to learn SLAM system.
-* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#simultaneous-localization-and-mapping) ⭐ 3,893 | 🐛 13 | 📅 2023-11-20
+* [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,166 | 🐛 20 | 🌐 HTML | 📅 2024-08-20 : Modern C++ is important language to learn SLAM system.
+* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#simultaneous-localization-and-mapping) ⭐ 3,894 | 🐛 13 | 📅 2023-11-20
 * [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,429 | 🐛 3 | 📅 2022-05-10
 * [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2) ⚠️ Archived
 * [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,946 | 🐛 14 | 📅 2024-12-13
@@ -100,11 +100,11 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### Visual SLAM
 
-* [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,915 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
+* [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,916 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
 
-> The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,706 | 🐛 208 | 🌐 C++ | 📅 2024-12-27.
+> The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,708 | 🐛 208 | 🌐 C++ | 📅 2024-12-27.
 
-* [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,420 | 🐛 2 | 🌐 Python | 📅 2026-08-23
+* [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,422 | 🐛 2 | 🌐 Python | 📅 2026-08-23
 
 > pySLAM contains a monocular Visual Odometry (VO) pipeline in Python.
 
@@ -124,20 +124,20 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### Robotics
 
-* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,591 | 🐛 57 | 🌐 Python | 📅 2026-09-22
+* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,598 | 🐛 52 | 🌐 Python | 📅 2026-09-28
 
 > Python sample codes for robotics algorithms.
 
-* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,374 | 🐛 144 | 🌐 Jupyter Notebook | 📅 2024-08-07
+* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,381 | 🐛 144 | 🌐 Jupyter Notebook | 📅 2024-08-07
 
 > Kalman Filter book using Jupyter Notebook.
 
 ### 3D Vision
 
-* [sunglok/3dv\_tutorial](https://github.com/sunglok/3dv_tutorial) ⭐ 1,807 | 🐛 6 | 🌐 CMake | 📅 2026-05-17
+* [sunglok/3dv\_tutorial](https://github.com/sunglok/3dv_tutorial) ⭐ 1,806 | 🐛 6 | 🌐 CMake | 📅 2026-05-17
 
 > An Invitation to 3D Vision: A Tutorial for Everyone
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
