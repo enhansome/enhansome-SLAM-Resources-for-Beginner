@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13171,
+            "stars": 13170,
             "topics": [
               "cpp",
               "cpp11",
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "Awesome Robotic Tooling",
-          "description": null,
+          "description": "Ly0n/awesome-robotic-tooling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3897,
+            "stars": 3896,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -76,7 +76,7 @@
         {
           "node_type": "item",
           "title": "awesome-visual-slam",
-          "description": null,
+          "description": "tzutalin/awesome-visual-slam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -105,7 +105,7 @@
         {
           "node_type": "item",
           "title": "Awesome Robot Operating System 2 (ROS 2)",
-          "description": null,
+          "description": "fkromer/awesome-ros2",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -130,7 +130,7 @@
         {
           "node_type": "item",
           "title": "Awesome SLAM Datasets",
-          "description": null,
+          "description": "youngguncho/awesome-slam-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -151,7 +151,7 @@
         {
           "node_type": "item",
           "title": "Awesome LIDAR",
-          "description": null,
+          "description": "szenergy/awesome-lidar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -187,7 +187,7 @@
         {
           "node_type": "item",
           "title": "Awesome-SLAM",
-          "description": null,
+          "description": "SilenceOverflow/Awesome-SLAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -212,7 +212,7 @@
         {
           "node_type": "item",
           "title": "awesome-photogrammetry",
-          "description": null,
+          "description": "awesome-photogrammetry/awesome-photogrammetry",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -247,7 +247,7 @@
             {
               "node_type": "item",
               "title": "YiChenCityU/Recent_SLAM_Research",
-              "description": null,
+              "description": "YiChenCityU/Recent_SLAM_Research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -289,7 +289,7 @@
             {
               "node_type": "item",
               "title": "gaoxiang12/slambook-en",
-              "description": null,
+              "description": "gaoxiang12/slambook-en",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -310,7 +310,7 @@
             {
               "node_type": "item",
               "title": "luigifreda/pyslam",
-              "description": null,
+              "description": "luigifreda/pyslam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -352,7 +352,7 @@
             {
               "node_type": "item",
               "title": "avisingh599/mono-vo",
-              "description": null,
+              "description": "avisingh599/mono-vo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -380,7 +380,7 @@
             {
               "node_type": "item",
               "title": "Kitware/pyLiDAR-SLAM",
-              "description": null,
+              "description": "Kitware/pyLiDAR-SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -401,7 +401,7 @@
             {
               "node_type": "item",
               "title": "gisbi-kim/PyICP-SLAM",
-              "description": null,
+              "description": "gisbi-kim/PyICP-SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -414,7 +414,7 @@
                 "open_issues": 5,
                 "owner": "gisbi-kim",
                 "repo": "PyICP-SLAM",
-                "stars": 573,
+                "stars": 574,
                 "topics": [
                   "icp",
                   "lidar",
@@ -440,7 +440,7 @@
             {
               "node_type": "item",
               "title": "AtsushiSakai/PythonRobotics",
-              "description": null,
+              "description": "AtsushiSakai/PythonRobotics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -449,11 +449,11 @@
                 "id": 54376220,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T04:40:49Z",
-                "open_issues": 52,
+                "last_commit": "2026-10-03T04:31:04Z",
+                "open_issues": 59,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30617,
+                "stars": 30621,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -478,7 +478,7 @@
             {
               "node_type": "item",
               "title": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
-              "description": null,
+              "description": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -491,7 +491,7 @@
                 "open_issues": 144,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19392,
+                "stars": 19396,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -506,7 +506,7 @@
             {
               "node_type": "item",
               "title": "sunglok/3dv_tutorial",
-              "description": null,
+              "description": "mint-lab/3dv_tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -519,7 +519,7 @@
                 "open_issues": 6,
                 "owner": "mint-lab",
                 "repo": "3dv_tutorial",
-                "stars": 1808,
+                "stars": 1809,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:01:03.480Z",
+    "last_updated": "2026-10-03T04:35:13.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
