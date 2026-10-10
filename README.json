@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13167,
+            "stars": 13169,
             "topics": [
               "cpp",
               "cpp11",
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3899,
+            "stars": 3900,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -118,7 +118,7 @@
             "open_issues": 0,
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2133,
+            "stars": 2134,
             "topics": [
               "awesome",
               "awesome-list",
@@ -164,7 +164,7 @@
             "open_issues": 1,
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1354,
+            "stars": 1355,
             "topics": [
               "3d",
               "3d-lidar",
@@ -200,7 +200,7 @@
             "open_issues": 7,
             "owner": "SilenceOverflow",
             "repo": "Awesome-SLAM",
-            "stars": 1113,
+            "stars": 1114,
             "topics": [
               "slam",
               "vislam",
@@ -222,7 +222,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-05-18T12:08:27Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
             "stars": 814,
@@ -302,7 +302,7 @@
                 "open_issues": 30,
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
-                "stars": 1923,
+                "stars": 1925,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -450,10 +450,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-06T04:15:36Z",
-                "open_issues": 57,
+                "open_issues": 59,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30651,
+                "stars": 30659,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:38:35.459Z",
+    "last_updated": "2026-10-10T09:01:20.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
