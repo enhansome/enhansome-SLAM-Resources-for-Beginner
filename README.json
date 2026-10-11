@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13169,
+            "stars": 13171,
             "topics": [
               "cpp",
               "cpp11",
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3900,
+            "stars": 3901,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -225,7 +225,7 @@
             "open_issues": 6,
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 814,
+            "stars": 815,
             "topics": [
               "awesome",
               "computer-vision",
@@ -302,7 +302,7 @@
                 "open_issues": 30,
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
-                "stars": 1925,
+                "stars": 1926,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -450,10 +450,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-06T04:15:36Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30659,
+                "stars": 30665,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 145,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19408,
+                "stars": 19410,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -519,7 +519,7 @@
                 "open_issues": 6,
                 "owner": "mint-lab",
                 "repo": "3dv_tutorial",
-                "stars": 1811,
+                "stars": 1813,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T09:01:20.839Z",
+    "last_updated": "2026-10-11T09:18:39.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
@@ -557,7 +557,7 @@
       "open_issues": 0,
       "owner": "Taeyoung96",
       "repo": "SLAM-Resources-for-Beginner",
-      "stars": 260,
+      "stars": 261,
       "topics": [
         "awesome-list",
         "lecture",
