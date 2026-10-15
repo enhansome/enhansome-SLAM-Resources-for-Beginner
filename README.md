@@ -81,7 +81,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ## Awesome-list
 
-* [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,173 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 : Modern C++ is important language to learn SLAM system.
+* [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,174 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 : Modern C++ is important language to learn SLAM system.
 * [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#simultaneous-localization-and-mapping) ⭐ 3,905 | 🐛 14 | 📅 2023-11-20
 * [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,431 | 🐛 3 | 📅 2022-05-10
 * [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2) ⚠️ Archived
@@ -100,9 +100,9 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### Visual SLAM
 
-* [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,928 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
+* [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,930 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
 
-> The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,735 | 🐛 208 | 🌐 C++ | 📅 2024-12-27.
+> The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,736 | 🐛 208 | 🌐 C++ | 📅 2024-12-27.
 
 * [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,430 | 🐛 2 | 🌐 Python | 📅 2026-10-03
 
@@ -124,11 +124,11 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### Robotics
 
-* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,690 | 🐛 64 | 🌐 Python | 📅 2026-10-14
+* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,696 | 🐛 64 | 🌐 Python | 📅 2026-10-14
 
 > Python sample codes for robotics algorithms.
 
-* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,415 | 🐛 145 | 🌐 Jupyter Notebook | 📅 2024-08-07
+* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,423 | 🐛 145 | 🌐 Jupyter Notebook | 📅 2024-08-07
 
 > Kalman Filter book using Jupyter Notebook.
 
@@ -140,4 +140,4 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
