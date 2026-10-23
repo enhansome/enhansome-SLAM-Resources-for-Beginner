@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13180,
+            "stars": 13181,
             "topics": [
               "cpp",
               "cpp11",
@@ -44,10 +44,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2023-11-20T07:13:29Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3910,
+            "stars": 3908,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -453,7 +453,7 @@
                 "open_issues": 63,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30764,
+                "stars": 30773,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 145,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19437,
+                "stars": 19441,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T07:57:46.485Z",
+    "last_updated": "2026-10-23T07:56:43.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
@@ -557,7 +557,7 @@
       "open_issues": 0,
       "owner": "Taeyoung96",
       "repo": "SLAM-Resources-for-Beginner",
-      "stars": 264,
+      "stars": 265,
       "topics": [
         "awesome-list",
         "lecture",
