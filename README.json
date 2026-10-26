@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3910,
+            "stars": 3911,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -160,8 +160,8 @@
             "id": 255347464,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-30T08:28:51Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-26T07:11:06Z",
+            "open_issues": 1,
             "owner": "szenergy",
             "repo": "awesome-lidar",
             "stars": 1359,
@@ -302,7 +302,7 @@
                 "open_issues": 30,
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
-                "stars": 1930,
+                "stars": 1931,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -319,11 +319,11 @@
                 "id": 179858671,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-24T16:44:13Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-25T13:16:07Z",
+                "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3431,
+                "stars": 3432,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -453,7 +453,7 @@
                 "open_issues": 64,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30797,
+                "stars": 30808,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 145,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19448,
+                "stars": 19451,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:49:02.162Z",
+    "last_updated": "2026-10-26T08:07:42.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
