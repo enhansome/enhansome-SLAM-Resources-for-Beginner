@@ -32,7 +32,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ## Roadmap
 
-* [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) ⭐ 1,815 | 🐛 8 | 🌐 Astro | 📅 2026-07-19
+* [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) ⭐ 1,816 | 🐛 8 | 🌐 Astro | 📅 2026-07-19
 
 > Roadmap to becoming a Visual-SLAM developer
 
@@ -82,29 +82,29 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 ## Awesome-list
 
 * [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,186 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 : Modern C++ is important language to learn SLAM system.
-* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#simultaneous-localization-and-mapping) ⭐ 3,911 | 🐛 13 | 📅 2023-11-20
-* [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,431 | 🐛 3 | 📅 2022-05-10
+* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#simultaneous-localization-and-mapping) ⭐ 3,912 | 🐛 13 | 📅 2023-11-20
+* [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,432 | 🐛 3 | 📅 2022-05-10
 * [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2) ⚠️ Archived
-* [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,948 | 🐛 14 | 📅 2024-12-13
+* [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,949 | 🐛 14 | 📅 2024-12-13
 * [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,359 | 🐛 1 | 📅 2026-10-26
 * [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) ⭐ 1,117 | 🐛 7 | 📅 2023-10-13
-* [awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) ⭐ 823 | 🐛 7 | 📅 2026-05-18
+* [awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) ⭐ 824 | 🐛 7 | 📅 2026-05-18
 
 ## Recommended github repository
 
 ### SLAM Trend
 
-* [YiChenCityU/Recent\_SLAM\_Research](https://github.com/YiChenCityU/Recent_SLAM_Research) ⭐ 2,740 | 🐛 5 | 📅 2021-10-21
+* [YiChenCityU/Recent\_SLAM\_Research](https://github.com/YiChenCityU/Recent_SLAM_Research) ⭐ 2,741 | 🐛 5 | 📅 2021-10-21
 
 > This repository tracks advancement of SLAM system. (2021 ver)
 
 ### Visual SLAM
 
-* [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,931 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
+* [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,932 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
 
-> The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,756 | 🐛 208 | 🌐 C++ | 📅 2024-12-27.
+> The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,759 | 🐛 208 | 🌐 C++ | 📅 2024-12-27.
 
-* [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,432 | 🐛 1 | 🌐 Python | 📅 2026-10-25
+* [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,433 | 🐛 1 | 🌐 Python | 📅 2026-10-25
 
 > pySLAM contains a monocular Visual Odometry (VO) pipeline in Python.
 
@@ -124,20 +124,20 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### Robotics
 
-* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,808 | 🐛 64 | 🌐 Python | 📅 2026-10-24
+* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,810 | 🐛 69 | 🌐 Python | 📅 2026-10-26
 
 > Python sample codes for robotics algorithms.
 
-* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,451 | 🐛 145 | 🌐 Jupyter Notebook | 📅 2024-08-07
+* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,452 | 🐛 145 | 🌐 Jupyter Notebook | 📅 2024-08-07
 
 > Kalman Filter book using Jupyter Notebook.
 
 ### 3D Vision
 
-* [sunglok/3dv\_tutorial](https://github.com/sunglok/3dv_tutorial) ⭐ 1,817 | 🐛 6 | 🌐 CMake | 📅 2026-05-17
+* [sunglok/3dv\_tutorial](https://github.com/sunglok/3dv_tutorial) ⭐ 1,819 | 🐛 6 | 🌐 CMake | 📅 2026-05-17
 
 > An Invitation to 3D Vision: A Tutorial for Everyone
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
