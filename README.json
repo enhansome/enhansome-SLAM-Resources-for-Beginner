@@ -89,7 +89,7 @@
             "open_issues": 3,
             "owner": "tzutalin",
             "repo": "awesome-visual-slam",
-            "stars": 2433,
+            "stars": 2434,
             "topics": [
               "books",
               "computervision",
@@ -118,7 +118,7 @@
             "open_issues": 0,
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2139,
+            "stars": 2140,
             "topics": [
               "awesome",
               "awesome-list",
@@ -164,7 +164,7 @@
             "open_issues": 2,
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1364,
+            "stars": 1367,
             "topics": [
               "3d",
               "3d-lidar",
@@ -225,7 +225,7 @@
             "open_issues": 7,
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 826,
+            "stars": 827,
             "topics": [
               "awesome",
               "computer-vision",
@@ -302,7 +302,7 @@
                 "open_issues": 30,
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
-                "stars": 1935,
+                "stars": 1937,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -449,11 +449,11 @@
                 "id": 54376220,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T20:03:27Z",
-                "open_issues": 82,
+                "last_commit": "2026-11-04T05:51:38Z",
+                "open_issues": 79,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30849,
+                "stars": 30861,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +491,7 @@
                 "open_issues": 145,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19469,
+                "stars": 19472,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -519,7 +519,7 @@
                 "open_issues": 6,
                 "owner": "mint-lab",
                 "repo": "3dv_tutorial",
-                "stars": 1823,
+                "stars": 1825,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T10:04:54.787Z",
+    "last_updated": "2026-11-05T09:51:14.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
