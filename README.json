@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13187,
+            "stars": 13186,
             "topics": [
               "cpp",
               "cpp11",
@@ -98,31 +98,6 @@
               "reconstruction",
               "ros",
               "slam"
-            ]
-          },
-          "first_seen": "2026-08-28T14:35:37.752Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Robot Operating System 2 (ROS 2)",
-          "description": "fkromer/awesome-ros2",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "The Robot Operating System Version 2.0 is awesome!",
-            "homepage": "https://fkromer.github.io/awesome-ros2",
-            "id": 105514647,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2023-08-18T07:40:50Z",
-            "open_issues": 0,
-            "owner": "fkromer",
-            "repo": "awesome-ros2",
-            "stars": 2139,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "ros2"
             ]
           },
           "first_seen": "2026-08-28T14:35:37.752Z"
@@ -323,7 +298,7 @@
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3438,
+                "stars": 3437,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -414,7 +389,7 @@
                 "open_issues": 5,
                 "owner": "gisbi-kim",
                 "repo": "PyICP-SLAM",
-                "stars": 574,
+                "stars": 575,
                 "topics": [
                   "icp",
                   "lidar",
@@ -449,11 +424,11 @@
                 "id": 54376220,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T05:51:38Z",
-                "open_issues": 95,
+                "last_commit": "2026-11-09T20:03:18Z",
+                "open_issues": 96,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30879,
+                "stars": 30886,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -491,7 +466,7 @@
                 "open_issues": 145,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19474,
+                "stars": 19475,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -545,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T10:21:31.472Z",
+    "last_updated": "2026-11-10T10:26:42.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
