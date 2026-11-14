@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13192,
+            "stars": 13191,
             "topics": [
               "cpp",
               "cpp11",
@@ -235,7 +235,7 @@
                 "open_issues": 5,
                 "owner": "YiChenCityU",
                 "repo": "Recent_SLAM_Research",
-                "stars": 2744,
+                "stars": 2743,
                 "topics": [
                   "fusion",
                   "lidar-odometry",
@@ -428,7 +428,7 @@
                 "open_issues": 98,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30908,
+                "stars": 30911,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -466,7 +466,7 @@
                 "open_issues": 145,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19482,
+                "stars": 19485,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T09:59:40.828Z",
+    "last_updated": "2026-11-14T09:25:48.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
