@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13192,
+            "stars": 13191,
             "topics": [
               "cpp",
               "cpp11",
@@ -200,7 +200,7 @@
             "open_issues": 8,
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "awesome",
               "computer-vision",
@@ -294,11 +294,11 @@
                 "id": 179858671,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-25T13:16:07Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-15T21:56:11Z",
+                "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
-                "stars": 3437,
+                "stars": 3436,
                 "topics": [
                   "3d-reconstruction",
                   "depth-estimation",
@@ -428,7 +428,7 @@
                 "open_issues": 98,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30919,
+                "stars": 30929,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -466,7 +466,7 @@
                 "open_issues": 145,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19490,
+                "stars": 19491,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T09:55:46.696Z",
+    "last_updated": "2026-11-16T10:11:09.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
