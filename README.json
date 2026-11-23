@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13195,
+            "stars": 13196,
             "topics": [
               "cpp",
               "cpp11",
@@ -44,10 +44,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2023-11-20T07:13:29Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3927,
+            "stars": 3929,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -89,7 +89,7 @@
             "open_issues": 3,
             "owner": "tzutalin",
             "repo": "awesome-visual-slam",
-            "stars": 2435,
+            "stars": 2434,
             "topics": [
               "books",
               "computervision",
@@ -136,7 +136,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-06T16:55:35Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "szenergy",
             "repo": "awesome-lidar",
             "stars": 1375,
@@ -197,7 +197,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-05-18T12:08:27Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
             "stars": 833,
@@ -277,7 +277,7 @@
                 "open_issues": 30,
                 "owner": "gaoxiang12",
                 "repo": "slambook-en",
-                "stars": 1941,
+                "stars": 1944,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -294,7 +294,7 @@
                 "id": 179858671,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-21T16:48:20Z",
+                "last_commit": "2026-11-22T22:38:53Z",
                 "open_issues": 1,
                 "owner": "luigifreda",
                 "repo": "pyslam",
@@ -428,7 +428,7 @@
                 "open_issues": 103,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30955,
+                "stars": 30961,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -466,7 +466,7 @@
                 "open_issues": 146,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19507,
+                "stars": 19508,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T10:18:53.013Z",
+    "last_updated": "2026-11-23T11:17:20.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
