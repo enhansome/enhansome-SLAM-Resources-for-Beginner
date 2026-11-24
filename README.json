@@ -175,7 +175,7 @@
             "open_issues": 8,
             "owner": "SilenceOverflow",
             "repo": "Awesome-SLAM",
-            "stars": 1122,
+            "stars": 1124,
             "topics": [
               "slam",
               "vislam",
@@ -200,7 +200,7 @@
             "open_issues": 11,
             "owner": "awesome-photogrammetry",
             "repo": "awesome-photogrammetry",
-            "stars": 833,
+            "stars": 834,
             "topics": [
               "awesome",
               "computer-vision",
@@ -424,11 +424,11 @@
                 "id": 54376220,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T20:03:07Z",
-                "open_issues": 103,
+                "last_commit": "2026-11-23T20:04:36Z",
+                "open_issues": 105,
                 "owner": "AtsushiSakai",
                 "repo": "PythonRobotics",
-                "stars": 30961,
+                "stars": 30968,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -466,7 +466,7 @@
                 "open_issues": 146,
                 "owner": "rlabbe",
                 "repo": "Kalman-and-Bayesian-Filters-in-Python",
-                "stars": 19508,
+                "stars": 19509,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:37.752Z"
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T11:17:20.271Z",
+    "last_updated": "2026-11-24T12:56:23.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc)",
