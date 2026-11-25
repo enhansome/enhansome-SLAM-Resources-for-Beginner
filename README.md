@@ -32,7 +32,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ## Roadmap
 
-* [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) ⭐ 1,831 | 🐛 8 | 🌐 Astro | 📅 2026-07-19
+* [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) ⭐ 1,832 | 🐛 8 | 🌐 Astro | 📅 2026-07-19
 
 > Roadmap to becoming a Visual-SLAM developer
 
@@ -87,7 +87,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 * [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,951 | 🐛 14 | 📅 2024-12-13
 * [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,375 | 🐛 2 | 📅 2026-11-06
 * [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) ⭐ 1,124 | 🐛 8 | 📅 2023-10-13
-* [awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) ⭐ 834 | 🐛 11 | 📅 2026-05-18
+* [awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) ⭐ 835 | 🐛 12 | 📅 2026-05-18
 * [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2)
 
 ## Recommended github repository
@@ -100,11 +100,11 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### Visual SLAM
 
-* [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,944 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
+* [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en) ⭐ 1,945 | 🐛 30 | 🌐 TeX | 📅 2025-07-07
 
-> The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,795 | 🐛 208 | 🌐 C++ | 📅 2024-12-27.
+> The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2) ⭐ 6,800 | 🐛 208 | 🌐 C++ | 📅 2024-12-27.
 
-* [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,438 | 🐛 1 | 🌐 Python | 📅 2026-11-22
+* [luigifreda/pyslam](https://github.com/luigifreda/pyslam) ⭐ 3,442 | 🐛 1 | 🌐 Python | 📅 2026-11-22
 
 > pySLAM contains a monocular Visual Odometry (VO) pipeline in Python.
 
@@ -124,11 +124,11 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### Robotics
 
-* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,968 | 🐛 105 | 🌐 Python | 📅 2026-11-23
+* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,972 | 🐛 105 | 🌐 Python | 📅 2026-11-23
 
 > Python sample codes for robotics algorithms.
 
-* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,509 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2024-08-07
+* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,508 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2024-08-07
 
 > Kalman Filter book using Jupyter Notebook.
 
@@ -140,4 +140,4 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
